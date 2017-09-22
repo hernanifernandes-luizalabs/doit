@@ -62,7 +62,8 @@ API_KEY={YOUR_GOOGLE_API_TOKEN}
 
 ## Build the APP in DEVELOPMENT
 1. cd to the repo
-2. Run Build
+2. npm i
+3. Run Build
   * Run Genymotion or Android device [remember how to activate dev mode](https://www.androidcentral.com/android-50-lollipop-basics-how-turn-developer-settings)
   ```shell
   $ react-native run-android
